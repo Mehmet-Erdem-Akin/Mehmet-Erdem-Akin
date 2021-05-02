@@ -1,6 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Mehmet</h1>
-<h3 align="left">I am a software developer</h3>
-<br>
+
 <img src="https://github.com/Mehmet-Erdem-Akin/Mehmet-Erdem-Akin/blob/main/breathe.png?raw=true" width="auto" height="auto" alt="banner" />
 <br>
 
