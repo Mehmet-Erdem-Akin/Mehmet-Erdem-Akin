@@ -15,7 +15,7 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img width="auto" src="https://github-readme-stats.vercel.app/api?username=Mehmet-Erdem-Akin&show_icons=true&theme=gotham" alt="Mehmet-Erdem-Akin" />
+<p align="center"> <img width="auto" src="https://github-readme-stats.vercel.app/api?username=Mehmet-Erdem-Akin&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" alt="Mehmet-Erdem-Akin" />
 <br>
 
 <h2 align="left" id="Mehmet-Erdem-Akin-tech">Favorite Tech</h2>
