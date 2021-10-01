@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Mehmet-Erdem-Akin/Mehmet-Erdem-Akin/blob/main/breathe.png?raw=true" width="auto" height="auto" alt="banner" />
+<!-- <img src="https://github.com/Mehmet-Erdem-Akin/Mehmet-Erdem-Akin/blob/main/breathe.png?raw=true" width="auto" height="auto" alt="banner" /> -->
 <br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Mehmet-Erdem-Akin.Mehmet-Erdem-Akin)
