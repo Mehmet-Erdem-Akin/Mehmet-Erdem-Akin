@@ -2,7 +2,7 @@
 <img src="https://github.com/Mehmet-Erdem-Akin/Mehmet-Erdem-Akin/blob/main/H%C4%B1%20%C4%B1'am%20mehmet.png?raw=true" width="auto" height="auto" alt="banner" />
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Mehmet-Erdem-Akin.Mehmet-Erdem-Akin)
+![](https://visitor-badge.laobi.icu/badge?page_id=Mehmet-Erdem-Akin.Mehmet-Erdem-Akin)
 <br>
 
 - :office: &nbsp;I'm currently working at **Finartz**
