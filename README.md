@@ -81,7 +81,7 @@ _March 2021 - October 2021_
     </td>
     <td align="center" width="96">
       <a href="#Mehmet-Erdem-Akin-tech">
-        <img src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" width="48" height="48" alt="Apollo" />
+        <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" width="48" height="48" alt="Apollo" />
       </a>
       <br>Apollo
     </td>
@@ -131,7 +131,7 @@ _March 2021 - October 2021_
     </td>
     <td align="center" width="96">
       <a href="#Mehmet-Erdem-Akin-tech">
-        <img src="https://seeklogo.com/images/M/material-design-logo-8BAFEFE50B-seeklogo.com.png" width="48" height="48" alt="Material Ui" />
+        <img src="https://avatars.githubusercontent.com/u/33663932?s=48&v=4" width="48" height="48" alt="Material Ui" />
       </a>
       <br>Material Ui
     </td>
