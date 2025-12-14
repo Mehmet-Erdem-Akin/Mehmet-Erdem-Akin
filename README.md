@@ -16,10 +16,39 @@
 
 ## 💼 Experience
 
-- **Frontend Developer** at [ENUYGUN](https://www.enuygun.com) _(Sep 2024 - Present)_
-- **Frontend Developer** at Finartz _(Jul 2022 - Aug 2024)_
-- **Jr. Frontend Developer** at Finartz _(Nov 2021 - Jul 2022)_
-- **Junior Frontend Developer** at [UniverList](https://github.com/univerlistapp) _(Mar 2021 - Oct 2021)_
+### **Frontend Developer** at [ENUYGUN](https://www.enuygun.com) 
+_September 2024 - Present_
+
+- Developing and maintaining high-traffic web applications for ENUYGUN and ENUYGUN Sigorta platforms
+- Optimizing application performance to improve user experience and page load times
+- Building and maintaining design system components for consistent UI/UX across products
+- Implementing user traffic analytics and monitoring solutions
+- Collaborating with cross-functional teams to deliver scalable frontend solutions
+- Working with modern technologies including Next.js, TypeScript, and React
+
+### **Frontend Developer** at Finartz
+_July 2022 - August 2024_
+
+- Developed and maintained frontend applications with focus on performance optimization
+- Implemented design system components and maintained UI consistency
+- Analyzed and improved user traffic patterns and conversion rates
+- Collaborated with backend teams to integrate REST APIs and GraphQL endpoints
+- Optimized application performance for better user experience
+
+### **Jr. Frontend Developer** at Finartz
+_November 2021 - July 2022_
+
+- Developed responsive web applications using React and modern JavaScript
+- Participated in design system development and component library creation
+- Assisted in performance optimization and user traffic analysis
+- Worked on API integrations and data visualization
+
+### **Junior Frontend Developer** at [UniverList](https://github.com/univerlistapp)
+_March 2021 - October 2021_
+
+- Developed frontend features for the UniverList platform
+- Worked on UI/UX improvements and user experience enhancements
+- Participated in code reviews and team collaboration
 
 📈 My GitHub Stats
 
@@ -52,7 +81,7 @@
     </td>
     <td align="center" width="96">
       <a href="#Mehmet-Erdem-Akin-tech">
-        <img src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" width="48" height="48" alt="Apollo" />
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FhJwmTim_graphql-apollo-logo-png-transparent-png%2F&psig=AOvVaw1BcMgh3prKX81QRTRQn5lk&ust=1765834506128000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj1-qaEvpEDFQAAAAAdAAAAABAE" width="48" height="48" alt="Apollo" />
       </a>
       <br>Apollo
     </td>
@@ -102,7 +131,7 @@
     </td>
     <td align="center" width="96">
       <a href="#Mehmet-Erdem-Akin-tech">
-        <img src="https://seeklogo.com/images/M/material-design-logo-8BAFEFE50B-seeklogo.com.png" width="48" height="48" alt="Material Ui" />
+        <img src="https://www.facebook.com/photo/?fbid=399082462402614&set=a.399082455735948&__tn__=%3C" width="48" height="48" alt="Material Ui" />
       </a>
       <br>Material Ui
     </td>
