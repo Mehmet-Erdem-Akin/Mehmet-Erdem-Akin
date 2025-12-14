@@ -5,13 +5,21 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Mehmet-Erdem-Akin.Mehmet-Erdem-Akin)
 <br>
 
-- :office: &nbsp;I'm currently working at **ENUYGUN**
-- :seedling: &nbsp;I’m currently learning **Javascript**
+- :office: &nbsp;I'm currently working at **ENUYGUN** as Frontend Developer
+- :seedling: &nbsp;I'm currently coding **TypeScript** & **Next.js**
+- :mortar_board: &nbsp;Graduated from **Karadeniz Technical University**
 - :computer: &nbsp;Connect with me on **[linkedin]**
 
 [Univerlist]: https://github.com/univerlistapp "Univerlist Github Home"
 [linkedin]: https://www.linkedin.com/in/mehmet-erdem-akin-77453b1a0 "Mehmet Erdem LinkedIn"
 
+
+## 💼 Experience
+
+- **Frontend Developer** at [ENUYGUN](https://www.enuygun.com) _(Sep 2024 - Present)_
+- **Frontend Developer** at Finartz _(Jul 2022 - Aug 2024)_
+- **Jr. Frontend Developer** at Finartz _(Nov 2021 - Jul 2022)_
+- **Junior Frontend Developer** at [UniverList](https://github.com/univerlistapp) _(Mar 2021 - Oct 2021)_
 
 📈 My GitHub Stats
 
@@ -56,21 +64,65 @@
     </td>
     <td align="center" width="96">
       <a href="#Mehmet-Erdem-Akin-tech">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_bJ2z2NRfTncHAv5UjUxwA.jpeg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#Mehmet-Erdem-Akin-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#Mehmet-Erdem-Akin-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#Mehmet-Erdem-Akin-tech">
-        <img src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png" width="48" height="48" alt="Sass" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
-      <br>Sass
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#Mehmet-Erdem-Akin-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#Mehmet-Erdem-Akin-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <a href="#Mehmet-Erdem-Akin-tech">
         <img src="https://seeklogo.com/images/M/material-design-logo-8BAFEFE50B-seeklogo.com.png" width="48" height="48" alt="Material Ui" />
       </a>
       <br>Material Ui
+    </td>
+    <td align="center" width="96">
+      <a href="#Mehmet-Erdem-Akin-tech">
+        <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#Mehmet-Erdem-Akin-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/600px-Wordpress_Blue_logo.png" width="48" height="48" alt="Wordpress" />
+      </a>
+      <br>Wordpress
+    </td>
+    <td align="center" width="96">
+      <a href="#Mehmet-Erdem-Akin-tech">
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#Mehmet-Erdem-Akin-tech">
@@ -84,37 +136,29 @@
       </a>
       <br>Sass
     </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
+    <td align="center" width="96">
       <a href="#Mehmet-Erdem-Akin-tech">
-        <img src="https://w7.pngwing.com/pngs/951/800/png-transparent-debian-linux-installation-fedora-operating-systems-online.png" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#Mehmet-Erdem-Akin-tech">
-        <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-     <td align="center"  width="96">
-      <a href="#Mehmet-Erdem-Akin-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/600px-Wordpress_Blue_logo.png" width="48" height="48" alt="Wordpress" />
-      </a>
-      <br>Wordpress
-    </td>
-     <td align="center"  width="96">
-      <a href="#Mehmet-Erdem-Akin-tech">
-        <img src="http://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-     <td align="center"  width="96">
-      <a href="#Mehmet-Erdem-Akin-tech">
-        <img src="http://lz3g.com/wp-content/uploads/687474703a2f2f707265636973696f6e2d736f6674776172652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30342f6a5175726572792e676966.gif" width="48" height="48" alt="Jquery" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="48" height="48" alt="Jquery" />
       </a>
       <br>Jquery
+    </td>
+    <td align="center" width="96">
+      <a href="#Mehmet-Erdem-Akin-tech">
+        <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" width="48" height="48" alt="REST API" />
+      </a>
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <a href="#Mehmet-Erdem-Akin-tech">
+        <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="48" height="48" alt="Turbo Repo" />
+      </a>
+      <br>Turbo Repo
+    </td>
+    <td align="center" width="96">
+      <a href="#Mehmet-Erdem-Akin-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
     </td>
   </tr>
  </table>
